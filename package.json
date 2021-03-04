@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "express": "4.12.4",
+        "moment": "2.15.1",
+        "jquery": "^2.2.4"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
