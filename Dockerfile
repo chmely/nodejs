@@ -1,6 +1,6 @@
 # base image prepared by the nodejs team
 # alpine means the smalles possible without unncesessary extra contents
-FROM node:10.4
+FROM node:10.23.0
 
 # the nodejs application in this container will use two environment variables
 # the values specified here are the defaults
